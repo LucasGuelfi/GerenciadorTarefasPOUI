@@ -1,6 +1,6 @@
 #include "protheus.ch"
 
-User Function TESTEPUOI()
+User Function TESPOUI2()
 
 Fwcallapp("gerenciador-de-tarefas")
 

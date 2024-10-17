@@ -18,8 +18,11 @@
 	"lastPrograms": [
 		{
 			"label": "SIGAMDI"
+		},
+		{
+			"label": "sigacfg"
 		}
 	],
-	"lastProgramExecuted": "<cancel>",
+	"lastProgramExecuted": "SIGAMDI",
 	"lastProgramArguments": []
 }
