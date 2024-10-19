@@ -7,6 +7,11 @@ import { EditarTarefaComponent } from './editar';
 
 export const TarefaRoutes: Routes = [
     {
+        path: '',
+        redirectTo: 'tarefas/listar',
+        pathMatch: "full"
+    },
+    {
         path: 'tarefas',
         redirectTo: 'tarefas/listar'
     },
